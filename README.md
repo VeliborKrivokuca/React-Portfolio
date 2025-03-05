@@ -12,6 +12,8 @@
     This is a very minimalistic & clean portfolio template made with React.
 </h4>
 
+<hr/>
+
 ### [Live Here](https://react-portfolio-velibor.vercel.app/)
 
 <hr/>
