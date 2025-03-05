@@ -4,9 +4,7 @@
 
 <br/>
 
-<img align="left" alt="React" src="./public/favicon.ico" />
-
-<br/>
+<img alt="React" src="./public/favicon.ico" />
 
 ## Description:
 
