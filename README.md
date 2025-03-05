@@ -9,9 +9,7 @@
 ## Description:
 
 <h4>
-    This is a very minimalistic & clean portfolio template made with <i>React</i>.
-    <br/><br/>
-    <i>And, It is a part of Developer Days Hackathon</i>.<br/>
+    This is a very minimalistic & clean portfolio template made with React.
 </h4>
 
 ### [Live Here](https://react-portfolio-velibor.vercel.app/)
