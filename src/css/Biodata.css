@@ -159,6 +159,19 @@ section#biodata div.biodata .skills_wrapper .skill img {
     height: auto;
 }
 
+.download-btn {
+    border: 4px solid var(--btnBg);
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding: 1rem 2.5rem;
+    /* background-color: var(--darkwhite); */
+}
+
+.download-btn:hover {
+    background-color: var(--btnBg);
+    color: white;
+}
+
 /* **************************** Responsive Medias **************************** */
 
 @media (max-width: 1240px) {
